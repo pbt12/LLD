@@ -1,0 +1,9 @@
+BaseClasses\ParkingSpot.class
+Strategies\Allocation\AllocationStrategy.class
+Strategies\Fare\TimeBoundFareStrategy.class
+App.class
+ParkingLot.class
+BaseClasses\VehicleType.class
+Strategies\Allocation\FIrstComeStrategy.class
+ParkingLotManager.class
+Strategies\Fare\FareStrategy.class
